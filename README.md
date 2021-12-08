@@ -50,3 +50,4 @@ Try changing variables a bit to see if the code still works!
 Check in your repo, then turn in your work via the <a target="_blank" href="https://portal.primeacademy.io/#/student/assignments">Prime Academy Assignment Portal</a>, as usual and don't hesitate to hit up the Slack channel as needed!
 
 **REMINDER**: Make sure to answer the Slack discussion question!
+# tier1week2hwpart1
