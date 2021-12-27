@@ -96,7 +96,14 @@ console.log(mostPets);
 // console.log `mostPets` after the conditional has run.
 
 // 17 - Rewrite question 16 with a `switch` statement. You'll need to do research!
+switch (mostPets) {
+  case 2:
+  console.log('I have the most pets');
 
+    break;
+  default:
+
+}
 
 
 
