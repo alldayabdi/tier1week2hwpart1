@@ -110,3 +110,5 @@ switch (mostPets) {
 
 
 // 18 -- Rewrite question 13 with a `ternary` operator. You'll need to do research!
+var activity = (adventurous = true) ? "Adventures are great" : "Why don't we stay at home";
+console.log(activity);
